@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the companion papers."
+title: "SBE/DSR Toolkit"
+version: "0.1.0"
+date-released: "2026-10-05"
+license: "MIT"
+type: software
+authors:
+  - family-names: "G."
+    given-names: "Titan"
+    affiliation: "BIONIC AI INC."
+    orcid: "https://orcid.org/0009-0009-3216-6922"
+abstract: >-
+  Early-prototype Python scaffolding for Structure-Before-Energy /
+  Dynamic Structural Realism engineering interfaces: relational closure
+  metrics, structural receptivity matrices, stoppable maturity gates,
+  boundary-defined PDN loop inductance, mode-purity survival envelopes,
+  and PCNO-EDA stage gates. Offline demo uses synthetic fixtures only.
+keywords:
+  - Structure Before Energy
+  - Dynamic Structural Realism
+  - structural substrates
+  - power integrity
+  - mode purity
+  - PCNO-EDA
+references:
+  - type: article
+    title: "Dynamic Structural Realism: Constraint Fields, Generative Process, and the Ontology of Organized Actualization"
+    doi: "10.5281/zenodo.22086468"
+  - type: article
+    title: "Relational Closure and Mode-First Power Transmission"
+    doi: "10.5281/zenodo.23140931"
+  - type: article
+    title: "Structural Receptivity and Electromagnetic Actualization"
+    doi: "10.5281/zenodo.23140950"
+  - type: article
+    title: "Field-Defined Infrastructure"
+    doi: "10.5281/zenodo.23140951"
+  - type: article
+    title: "Boundary-Defined Power Integrity"
+    doi: "10.5281/zenodo.23140956"
+  - type: article
+    title: "Mode Purity Beyond Conductor Count"
+    doi: "10.5281/zenodo.23140968"
+  - type: article
+    title: "From Multiphysics Conflict to Computational Substrates"
+    doi: "10.5281/zenodo.23140969"
